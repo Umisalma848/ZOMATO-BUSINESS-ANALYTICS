@@ -22,10 +22,10 @@ The dashboard addresses this problem by organizing the analysis into four focuse
 
 | Page | What the Page Shows | Business Problem It Helps Solve | View |
 |---|---|---|---|
-| **Home** | Introduces Zomato, the business problem, project objectives, dataset, and overall analysis framework. | Establishes the business context and explains what the analysis aims to solve. | [View Home](./home.png) |
-| **Overview** | Provides a high-level view of important business KPIs and overall performance. | Helps decision-makers quickly understand the current state of the business. | [View Overview](./overview.png) |
-| **Sales & Performance** | Analyzes sales, orders, revenue trends, and overall business performance. | Helps identify sales patterns, performance trends, and areas that require attention. | [View Sales & Performance](./sales-performance.png) |
-| **Customers** | Focuses on customer behavior, demand patterns, and customer-related insights. | Helps understand customer preferences and behavior to support better business decisions. | [View Customers](./customers.png) |
+| **Home** | Introduces Zomato, the business problem, project objectives, dataset, and overall analysis framework. | Establishes the business context and explains what the analysis aims to solve. | [View Home](./Home.png) |
+| **Overview** | Provides a high-level view of important business KPIs and overall performance. | Helps decision-makers quickly understand the current state of the business. | [View Overview](./Overview.png) |
+| **Sales & Performance** | Analyzes sales, orders, revenue trends, and overall business performance. | Helps identify sales patterns, performance trends, and areas that require attention. | [View Sales & Performance](./Sales-&-Performance.png) |
+| **Customers** | Focuses on customer behavior, demand patterns, and customer-related insights. | Helps understand customer preferences and behavior to support better business decisions. | [View Customers](./Customer.png) |
 
 ## Analysis Flow
 
