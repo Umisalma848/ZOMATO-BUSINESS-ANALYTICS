@@ -1,4 +1,4 @@
-# Zomato Business Analytics — Power BI Dashboard
+# Zomato Business Analytics 
 
 ## About the Business
 
